@@ -5,15 +5,15 @@
     "Luis Montes"
   ],
   "license": "MIT",
-  "name": "@abandonware/noble",
+  "name": "noble",
   "description": "A Node.js BLE (Bluetooth Low Energy) central library.",
   "version": "1.9.2-25",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abandonware/noble.git"
+    "url": "https://github.com/ariken74/noble.git"
   },
   "bugs": {
-    "url": "https://github.com/abandonware/noble/issues"
+    "url": "https://github.com/ariken74/noble/issues"
   },
   "keywords": [
     "bluetooth",
@@ -41,7 +41,7 @@
     "node-gyp-build": "^4.5.0"
   },
   "optionalDependencies": {
-    "@abandonware/bluetooth-hci-socket": "^0.5.3-11"
+    "bluetooth-hci-socket": "^0.5.3-11"
   },
   "devDependencies": {
     "async": "^3.2.4",
